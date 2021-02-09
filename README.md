@@ -9,3 +9,5 @@
 - TOUCH (CREATE A NEW FILE)
 - NANO (EDIT A FILE)
 - CAT (FILE DISCRIPTION)
+## clone the repository
+- git clone respitory link
